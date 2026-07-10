@@ -1,0 +1,7 @@
+LOS 18.1:
+  ignoreClientHostname: true
+  env:
+    BUCKET_NAME: your_bucket_name
+    KEY_ENCRYPTION_PASSWORD: your_key_encryption_password
+    BKEY_ID: your_bkey_id
+    BAPP_KEY: your_bapp_key
